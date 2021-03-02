@@ -1,8 +1,12 @@
 ﻿  Source.c
-D:\VS_sourсe\Task2\Source.c(73,9): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
-D:\VS_sourсe\Task2\Source.c(333,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
-D:\VS_sourсe\Task2\Source.c(354,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
-D:\VS_sourсe\Task2\Source.c(391,18): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
-D:\VS_sourсe\Task2\Source.c(405,4): warning C4033: "new_bigint" должен возвращать значение
-D:\VS_sourсe\Task2\Source.c(450): warning C4715: new_bigint: значение возвращается не при всех путях выполнения
+D:\VS_sourсe\Task2\Source.c(78,8): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS_sourсe\Task2\Source.c(388,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\VS_sourсe\Task2\Source.c(411,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\VS_sourсe\Task2\Source.c(469,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\VS_sourсe\Task2\Source.c(578,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\VS_sourсe\Task2\Source.c(615,18): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS_sourсe\Task2\Source.c(629,4): warning C4033: "new_bigint" должен возвращать значение
+D:\VS_sourсe\Task2\Source.c(706,11): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+D:\VS_sourсe\Task2\Source.c(722,12): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+D:\VS_sourсe\Task2\Source.c(674): warning C4715: new_bigint: значение возвращается не при всех путях выполнения
   Task2.vcxproj -> D:\VS_sourсe\Task2\Debug\Task2.exe
